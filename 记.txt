@@ -1,0 +1,49 @@
+http://www.biquge.com.tw/
+#list dd a
+章节内容 #content
+章节标题 .bookname h1
+上一张 $(".bottem2  a:eq(1)")
+下一张 $(".bottem2  a:eq(3)")
+
+https://www.x23us.com
+#at td a
+章节内容 #contents
+章节标题 #amain h1
+上一张#footlink a:first
+下一张#footlink a:last
+
+https://www.bixia.org/148_148399/
+章节 #list dd a
+章节内容 #content
+章节标题 .bookname h1
+上一张地址 #pager_prev
+下一张地址 #pager_next
+
+看书中
+http://www.kanshuzhong.com/book/104906/
+.bookcontent dd a
+内容 .textcontent
+.rcontent h1
+.readlink a,1
+.readlink a,3
+
+下载
+通过线程解析下载小说
+//下载每次差一张
+0-99
+101-199
+list.subList (i,e) 包前不包后
+
+下载小说不换行
+	
+	
+//支持小说	
+看书中
+小说列表
+.book_list tr td
+小说列表下一页
+#pagelink .next
+
+
+
+
