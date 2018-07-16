@@ -1,4 +1,4 @@
-http://www.biquge.com.tw/
+﻿http://www.biquge.com.tw/
 #list dd a
 章节内容 #content
 章节标题 .bookname h1
@@ -45,5 +45,6 @@ list.subList (i,e) 包前不包后
 #pagelink .next
 
 
+D:\javaa\web\novel\conf
 
 
